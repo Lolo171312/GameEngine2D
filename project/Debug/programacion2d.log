@@ -1,0 +1,163 @@
+﻿  main.cpp
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(58,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file '../src/main.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(60,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file '../src/main.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\src\main.cpp(172,153): warning C4305: 'argument': truncation from 'double' to 'float'
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\src\main.cpp(178,64): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\src\main.cpp(186,15): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Background.cpp
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Background.cpp(42,93): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Background.cpp(42,77): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Background.cpp(42,50): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Background.cpp(42,37): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  CircleCollider.cpp
+  Collider.cpp
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(58,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(60,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'Collider.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(20,74): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(20,48): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(29,122): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(29,98): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(29,74): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(29,48): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(49,20): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(49,20): warning C4244:         with
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(49,20): warning C4244:         [
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(49,20): warning C4244:             _Ty=double
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(49,20): warning C4244:         ]
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(50,20): warning C4244: 'initializing': conversion from 'const _Ty' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(50,20): warning C4244:         with
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(50,20): warning C4244:         [
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(50,20): warning C4244:             _Ty=double
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(50,20): warning C4244:         ]
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(52,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(53,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(61,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(62,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(63,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(64,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(66,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(67,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(68,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(69,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(82,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(83,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(84,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(85,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(87,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(88,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(89,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(90,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(103,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(105,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(116,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(117,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(137,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(138,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(139,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(140,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(142,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(143,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(144,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(145,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(158,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(160,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(163,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(164,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(167,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(168,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(189,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(190,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(191,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(192,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(194,21): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(195,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(196,20): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(197,23): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(210,16): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(212,20): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(215,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Collider.cpp(216,25): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  PixelCollider.cpp
+  pugixml.cpp
+  RectCollider.cpp
+  Sprite.cpp
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(58,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'Sprite.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(60,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'Sprite.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(28,62): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(28,85): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(104,35): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(179,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(180,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(181,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(182,11): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(186,127): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(186,104): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(186,90): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(186,78): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(186,57): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(186,42): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(191,104): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(191,95): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(191,90): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(191,78): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(191,57): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(191,42): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(214,57): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  Utils.cpp
+  Vec2.cpp
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(119,10): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(120,10): warning C4244: 'initializing': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(136,13): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(141,31): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(176,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(177,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(184,36): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(197,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Vec2.cpp(198,14): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  World.cpp
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(58,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'World.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.h(60,49): warning C4244: 'return': conversion from 'const int' to 'float', possible loss of data
+  (compiling source file 'World.cpp')
+  
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(85,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(86,20): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(91,44): warning C4018: '<': signed/unsigned mismatch
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(93,43): warning C4018: '<': signed/unsigned mismatch
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(126,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(127,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(129,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(130,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(137,130): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(137,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(143,130): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(143,97): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(153,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(153,57): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(159,128): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(159,57): warning C4244: 'argument': conversion from 'const double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(276,54): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(276,33): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(359,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(362,30): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(383,22): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(387,17): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(388,20): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Generating Code...
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\World.cpp(206): warning C4172: returning address of local variable or temporary
+D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Sprite.cpp(131): warning C4172: returning address of local variable or temporary
+LINK : warning LNK4098: defaultlib 'MSVCRT' conflicts with use of other libs; use /NODEFAULTLIB:library
+  programacion2d.vcxproj -> D:\Users\lolo2\OneDrive\Documentos\GameEngine2D\GameEngine2D\project\Debug\programacion2d.exe
